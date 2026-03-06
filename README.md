@@ -6,6 +6,10 @@
 
 An automated Python system for analyzing and reporting fish yield (Salmon and Tuna) at the RIO SUL store. The project collects data from Excel spreadsheets, processes monthly yield information, generates visual charts, and sends comprehensive reports via email.
 
+
+All data used in this project is synthetic and intended for demonstration purposes only, ensuring the confidentiality of business results.
+
+
 🎯 Objective
 
 To automate the process of monitoring and reporting fish yields, replacing manual analysis with an efficient system that provides quick insights into operational performance.
